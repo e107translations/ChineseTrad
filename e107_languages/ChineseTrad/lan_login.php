@@ -1,17 +1,13 @@
 <?php
 /*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Language File.
-|
-|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_login.php,v $
-|     $Revision$
-|     $Date$
-|     $Author$
-+----------------------------------------------------------------------------+
+ * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
+ * Language file - download plugin
+ * e107 CMS Translation Teams ChineseTrad
+ * yen.teenyu@gmail.com
 */
 define("LAN_LOGIN_1", "使用者名稱");
 define("LAN_LOGIN_2", "使用者密碼");
-define("LAN_LOGIN_3", "Protected 伺服器");
+define("LAN_LOGIN_3", "受保護的伺服器");
 define("LAN_LOGIN_4", "請登入");
 define("LAN_LOGIN_5", "點擊此處以以登入");
 define("LAN_LOGIN_6", "目前暫時不接受新會員加入");
@@ -26,7 +22,7 @@ define("LAN_LOGIN_14", "使用者試圖用未確認的使用者名稱登入");
 define("LAN_LOGIN_15", "使用者試圖用不正確的密碼登入");
 define("LAN_LOGIN_16", "使用者登入用的 使用者名稱/密碼組合 已經有人使用了");
 define("LAN_LOGIN_17", "使用者密碼 (hashed)");
-define("LAN_LOGIN_18", "自動單名單: 超過 [x] 次登入失敗");
+define("LAN_LOGIN_18", "自動單名單: 超過[x]次登入失敗");
 define("LAN_LOGIN_19", "嚐試登入已逾10次");
 define("LAN_LOGIN_20", "您有空白欄位未填");
 define("LAN_LOGIN_21", "登入不正確，輸入的資料並未符合任何已註冊的使用者。檢查是否 CAPS-LOCK 燈是亮的，因為登入此網站是有區分大小寫的。");
