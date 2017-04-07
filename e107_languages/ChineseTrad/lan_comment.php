@@ -1,14 +1,5 @@
 <?php
-/*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Language File.
-|
-|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_comment.php,v $
-|     $Revision$
-|     $Date$
-|     $Author$
-+----------------------------------------------------------------------------+
-*/
+
 define("COMLAN_0", "[被系統阻擋]");
 define("COMLAN_1", "未阻擋");
 define("COMLAN_2", "阻擋");
