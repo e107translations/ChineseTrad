@@ -1,10 +1,15 @@
 <?php
 /*
- * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
- *
- * English language file - generic terms and system LAN
- *
++---------------------------------------------------------------+
+|        e107 website content management system ChineseTrad Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/14 07:12:48
+|
+|        $Author: 顏廷育 $
++---------------------------------------------------------------+
 */
+
 setlocale(LC_ALL,  'zh_TW.UTF-8', 'zh_TW.utf8', 'zh');
 define("CORE_LC", " en");
 define("CORE_LC2", " gb");
@@ -36,7 +41,7 @@ define("EMESSLAN_TITLE_WARNING", "警示");
 define("EMESSLAN_TITLE_DEBUG", "系統除錯");
 define("LAN_NO_PERMISSIONS", "您沒有權限檢視這個頁面");
 define("LAN_EDIT", "編輯");
-define("LAN_DELETE", "剛除");
+define("LAN_DELETE", "刪除");
 define("LAN_DEFAULT", "預設");
 define("LAN_MORE", "更多..");
 define("LAN_LESS", "..更少");

@@ -1,16 +1,26 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseTrad Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/14 07:13:05
+|
+|        $Author: 顏廷育 $
++---------------------------------------------------------------+
+*/
 
 define("COMLAN_0", "[被系統阻擋]");
 define("COMLAN_1", "未阻擋");
 define("COMLAN_2", "阻擋");
 define("COMLAN_4", "資訊");
 define("COMLAN_5", "評論 ...");
-define("COMLAN_6", "請登入-您必須登入才能在此站發表評論,或者您尚未註冊。");
+define("COMLAN_6", "請登入-您必須登入才能在此站發表評論,或者您尚未註冊.");
 define("COMLAN_7", "主要網站系統管理員");
 define("COMLAN_8", "評論");
 define("COMLAN_9", "送出評論");
 define("COMLAN_10", "系統管理者");
-define("COMLAN_11", "無法將您的評論置入資料庫，請勿輸入非標準字元。");
+define("COMLAN_11", "無法將您的評論置入資料庫,請勿輸入非標準字元.");
 define("COMLAN_12", "使用者");
 define("COMLAN_16", "使用者名稱:");
 define("COMLAN_100", "新聞");
@@ -63,8 +73,8 @@ define("COMLAN_TYPE_6", "錯誤追踪");
 define("COMLAN_TYPE_7", "想法");
 define("COMLAN_TYPE_8", "使用者資料");
 define("COMLAN_TYPE_PAGE", "內容");
-define("COMLAN_500", "請 [sign in] 以留言評論");
-define("COMLAN_501", "如你尚未註冊，您可以 [click here to register]");
+define("COMLAN_500", "請 [sign in] 以留言評論.");
+define("COMLAN_501", "如你尚未註冊，您可以 [click here to register].");
 
 
 ?>

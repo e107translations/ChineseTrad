@@ -1,15 +1,17 @@
 <?php
 /*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Language File.
++---------------------------------------------------------------+
+|        e107 website content management system ChineseTrad Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/14 07:13:44
 |
-|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_error.php,v $
-|     $Revision$
-|     $Date$
-|     $Author$
-+----------------------------------------------------------------------------+
+|        $Author: 顏廷育 $
++---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "錯誤");
+define("LAN_ERROR_TITLE", "喔哦!");
 define("LAN_ERROR_1", "錯誤 401 - 認證失敗");
 define("LAN_ERROR_2", "您所請求的 URL 必須有正確的使用者名稱及密碼。若不是您輸入不正確的使用者名稱及密碼，就是您的瀏覽器不支援此項功能。");
 define("LAN_ERROR_3", "如您覺得此錯誤頁面是有失誤的，請通知系統管理員這個轉頁。");
@@ -44,12 +46,13 @@ define("LAN_ERROR_32", "為了完成更新作業，請複製以下的文字並�
 define("LAN_ERROR_33", "處理錯誤中! 通常來說, 將會轉至首頁。");
 define("LAN_ERROR_34", "未知錯誤! 如您看到這裡請通知網站系統管理員:");
 define("LAN_ERROR_35", "錯誤 400 - Bad Request");
-define("LAN_ERROR_36", "There is a formatting error in the web page you are trying to access.");
+define("LAN_ERROR_36", "There is a formatting error in the web page you are trying to access.
+您嘗試存取的網頁中有格式錯誤");
 define("LAN_ERROR_37", "錯誤的圖示");
 define("LAN_ERROR_38", "很抱歉, 由於臨時的失效網站無法正常運作。");
 define("LAN_ERROR_39", "請幾分鐘後再試一次");
 define("LAN_ERROR_40", "如果問題一直持續，請聯絡系統管理員。");
-define("LAN_ERROR_41", "The reported error is:");
+define("LAN_ERROR_41", "已回報的錯誤:");
 define("LAN_ERROR_42", "額外的錯誤訊息：");
 define("LAN_ERROR_43", "網站暫時無法正常運作");
 define("LAN_ERROR_44", "網站 logo");

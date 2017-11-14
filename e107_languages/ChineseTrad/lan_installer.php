@@ -1,11 +1,15 @@
 <?php
 /*
- * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
- * Language file - download plugin
- * e107 CMS Translation Teams ChineseTrad
- * yen.teenyu@gmail.com
- *
++---------------------------------------------------------------+
+|        e107 website content management system ChineseTrad Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/14 07:14:23
+|
+|        $Author: 顏廷育 $
++---------------------------------------------------------------+
 */
+
 define("LANINS_001", "e107 安裝程序");
 define("LANINS_002", "步驟");
 define("LANINS_003", "一");
@@ -63,17 +67,13 @@ define("LANINS_057", " e107 已有完成安裝程序所必要的相關資料。
  請點擊按鈕創建資料庫並儲存您所有的設定。");
 define("LANINS_058", "七");
 define("LANINS_060", "無法讀取SQL 資料檔案，請確認檔案 [b]core_sql.php[/b] 存在[b]/e107_core/sql[/b] 目錄之中");
-define("LANINS_061", "e107 was unable to create all of the required database tables.
-Please clear the database and rectify any problems before trying again.");
-define("LANINS_069", "e107 has been successfully installed!
-
-For security reasons you should now set the file permissions on the [b]e107_config.php[/b] file back to 644.
-
-Also please delete install.php from your server after you have clicked the button below.");
-define("LANINS_070", "e107 was unable to save the main config file to your server.
-
-請確認 [b]e107_config.php[/b] 檔案有正確的讀寫 權限");
-define("LANINS_071", "安裝程序已完整");
+define("LANINS_061", "e107無法創建全部的資料庫資料表。請清除資料庫並排除問題再試一次。");
+define("LANINS_069", "e107 已成功安裝。
+e107 has been successfully installed!
+基於安全考量,請立即將  [b]e107_config.php[/b] 檔案讀寫權限設置為644
+同時,在您點擊下面的按鍵後,也請將伺服器中的 install.php 檔案刪除。");
+define("LANINS_070", "e107無法將主要設定儲存至您的伺服器，請確認 [b]e107_config.php[/b] 檔案有正確的讀寫權限。");
+define("LANINS_071", "安裝程序已完成");
 define("LANINS_072", "系統管理員名稱");
 define("LANINS_073", "這是您要用來登入網站的名稱,也可以用來作為顥示在網站上的名稱。");
 define("LANINS_074", "系統管理員示名稱");

@@ -1,10 +1,5 @@
-<?php
-/*
- * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
- * Language file - download plugin
- * e107 CMS Translation Teams ChineseTrad
- * yen.teenyu@gmail.com
-*/
+﻿<?php
+
 define("LAN_LOGIN_1", "使用者名稱");
 define("LAN_LOGIN_2", "使用者密碼");
 define("LAN_LOGIN_3", "受保護的伺服器");
@@ -36,6 +31,10 @@ define("LAN_LOGIN_28", "電子郵件");
 define("LAN_LOGIN_29", "使用者名稱 or Email");
 define("LAN_LOGIN_30", "新增新 alt_auth 使用者到 DB 時錯誤");
 define("LAN_LOGIN_31", "您的憑證無法新增到系統");
+define("LAN_LOGIN_32", "因為目前以主要系統管理員登入,所以會看見這則訊息.");
+define("LAN_LOGIN_33", "[返回首頁]");
+define("LAN_LOGIN_34", "使用者註冊及(或)發入目前禁用.");
+define("LAN_LOGIN_35", "[啟用]");
 
 
 ?>

@@ -1,10 +1,15 @@
 <?php
 /*
- * Copyright e107 Inc e107.org, Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
- *
- * Forgotten password language file - Password reset
- *
++---------------------------------------------------------------+
+|        e107 website content management system ChineseTrad Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/14 07:14:11
+|
+|        $Author: 顏廷育 $
++---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "密碼重置");
 define("LAN_02", "很抱歉，無法寄送 email -請聯絡首席網站系統管理員");
 define("LAN_03", "密碼重置");

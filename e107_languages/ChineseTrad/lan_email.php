@@ -1,14 +1,15 @@
 <?php
 /*
-+ ----------------------------------------------------------------------------+
-|     e107 website system - Language File.
++---------------------------------------------------------------+
+|        e107 website content management system ChineseTrad Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/14 07:13:34
 |
-|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_email.php,v $
-|     $Revision$
-|     $Date$
-|     $Author$
-+----------------------------------------------------------------------------+
+|        $Author: 顏廷育 $
++---------------------------------------------------------------+
 */
+
 define("LAN_EMAIL_1", "寄件者:");
 define("LAN_EMAIL_2", "寄件者的 IP address :");
 define("LAN_EMAIL_3", "已Emial 的項目。來源");
@@ -30,6 +31,7 @@ define("LAN_EMAIL_187", "要寄送的 Email 地址");
 define("LAN_EMAIL_188", "我想您可能對這個新聞有興趣。來源：");
 define("LAN_EMAIL_189", "我想您可能對這個文章有興趣。來源：");
 define("LAN_EMAIL_190", "輸入可見的字碼");
+define("LAN_SOCIAL_LINK_CHK", "請試試這個連結:");
 
 
 ?>
